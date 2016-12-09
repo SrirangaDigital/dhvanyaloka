@@ -1,0 +1,59 @@
+body{
+font-family: "Times New Roman", Times, serif,glyphicons-halflings-regular;
+}
+.navbar {
+	width:100%;	
+    padding: 20px 0 20px 0;			
+    border-bottom: 1px solid #ccc;
+	margin-bottom: 0px;
+	font-size: 16px;
+
+}
+.navbar-brand{
+padding:  0 15px 0 25px;
+}
+
+p{
+text-align: justify;
+font-size:14px;
+}
+.li{
+text-indent: 25px;
+text-align: justify;
+}
+h3{
+color:#1813ab;
+width:50%;
+border-bottom: 2px solid #bf8115;
+padding-bottom: 10px;
+}
+
+hr{
+border-bottom: 2px solid #ccc;
+}
+.img-e{
+    border: 10px solid #FFFFFF;
+    box-shadow: 0 0 7px #AAA;
+}
+
+.img-p{
+    border: 5px solid #FFFFFF;
+    box-shadow: 0 0 7px #AAA;
+    border-radius: 25px 0 25px 0;
+
+}
+.book-name{
+text-align: center;
+color: #6d0a08;
+padding: 10px 0 10px 0;
+}
+
+.col-sm-3{
+padding: 10px 0 10px 0;
+}
+
+.footer{
+padding : 0 0 10px 0;
+text-align: center;
+}
+
