@@ -40,10 +40,10 @@
         <a class="dropdown-toggle" data-toggle="dropdown" href="#">Courses
         <span class="caret"></span></a>
         <ul class="dropdown-menu">
-          <li><a href="#">Culture-and-Civilization</a></li>
-          <li><a href="#">Indian Women: Tradition and Change</a></li>
-          <li><a href="#">Science, Technology and Sustainable Development</a></li>
-          <li><a href="#">Field Trips</a></li>
+          <li><a href="culture-and-civilization.php">Culture-and-Civilization</a></li>
+          <li><a href="indian-women-tradition-and-change.php">Indian Women: Tradition and Change</a></li>
+          <li><a href="stsdevelopment.php">Science, Technology and Sustainable Development</a></li>
+          <li><a href="field_trips.php">Field Trips</a></li>
         </ul>
       </li>
        <li class="dropdown">

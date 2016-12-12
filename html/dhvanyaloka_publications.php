@@ -25,8 +25,13 @@ include ('includes/header_inner.php');
 
 </div>
 </div>
-	
-
+<div class="container">
+	<hr>
+<p>All correspondence regarding contribution and subscription with the Editor, </p>
+<p>Dhvanyaloka, Bogadi Road, Mysore 560 006, INDIA </p>
+<p>Email: srinathcn@rediffmail.com</p>
+<p>Mobile : 91 99724 15369</p>
+</div>
 <?php
 include ('includes/footer.php');
 ?>
