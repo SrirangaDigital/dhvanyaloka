@@ -59,7 +59,6 @@ include ('html/includes/header.php');
 
 <p>Though there have been several organizations, which have been engaged in promoting such educational facilities, the continued demand for such studies from overseas students, and universities has warranted establishment of such centers with adequate infrastructure.</p>
 	</div>
-	
 
 </div>
 </div>
