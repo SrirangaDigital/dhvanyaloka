@@ -3,15 +3,16 @@
 include ('includes/header_inner.php');
 ?>
 <div class="container">
-	<div class="row">
+
  <h3>Dhvanyaloka Publications</h3>
- <div class="col-sm-3"><a href="" target="_blank"><img src="images/coverpage/001.jpg" class="img-responsive img-p" alt=""><span class="book-name">F.R. Leavis Birth Centenary Essays</span></a></div>
+ <div class="col-sm-3"><a href="books/001.pdf" target="_blank"><img src="images/coverpage/001.jpg" class="img-responsive img-p" alt=""><span class="book-name">F.R. Leavis Birth Centenary Essays</span></a></div>
  <div class="col-sm-3"><a href="" target="_blank"><img src="images/coverpage/002.jpg" class="img-responsive img-p" alt=""><span class="book-name">Problems Of Translation</span></a></div>
  <div class="col-sm-3"><a href="" target="_blank"><img src="images/coverpage/003.jpg" class="img-responsive img-p" alt=""><span class="book-name">Nobel Laureates In Literature</span></a></div>
  <div class="col-sm-3"><a href="" target="_blank"><img src="images/coverpage/004.jpg" class="img-responsive img-p" alt=""><span class="book-name">Identiti of Text and Reader Response</span></a></div>
  <div class="col-sm-3"><a href="" target="_blank"><img src="images/coverpage/005.jpg" class="img-responsive img-p" alt=""><span class="book-name">Kipling`s India</span></a></div>
  <div class="col-sm-3"><a href="" target="_blank"><img src="images/coverpage/006.jpg" class="img-responsive img-p" alt=""><span class="book-name">Negotiating Differences</span></a></div>
  <div class="col-sm-3"><a href="" target="_blank"><img src="images/coverpage/007.jpg" class="img-responsive img-p" alt=""><span class="book-name">What Have The Arts In Common?</span></a></div>
+ <div class="col-sm-3"><a href="" target="_blank"><img src="images/coverpage/008.jpg" class="img-responsive img-p" alt=""><span class="book-name">The Flowering of Australian Literature	</span></a></div>
  <div class="col-sm-3"><a href="" target="_blank"><img src="images/coverpage/009.jpg" class="img-responsive img-p" alt=""><span class="book-name">Fifty Years Of Things Fall Apart</span></a></div>
  <div class="col-sm-3"><a href="" target="_blank"><img src="images/coverpage/010.jpg" class="img-responsive img-p" alt=""><span class="book-name">Commonwealth Autobiography</span></a></div>
  <div class="col-sm-3"><a href="" target="_blank"><img src="images/coverpage/011.jpg" class="img-responsive img-p" alt=""><span class="book-name">African Literature Comes Of Age</span></a></div>
@@ -34,7 +35,7 @@ include ('includes/header_inner.php');
  <div class="col-sm-3"><a href="" target="_blank"><img src="images/coverpage/028.jpg" class="img-responsive img-p" alt=""><span class="book-name">Indian Literature in English</span></a></div>
  <div class="col-sm-3"><a href="" target="_blank"><img src="images/coverpage/029.jpg" class="img-responsive img-p" alt=""><span class="book-name">Tenth year of Publication</span></a></div>
 
-</div>
+
 </div>
 <div class="container">
 	<hr>

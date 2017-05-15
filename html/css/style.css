@@ -43,9 +43,10 @@ border-bottom: 2px solid #ccc;
 
 }
 .book-name{
-text-align: center;
+font-size: medium;
 color: #6d0a08;
 padding: 10px 0 10px 0;
+
 }
 
 .col-sm-3{
