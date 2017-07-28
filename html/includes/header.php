@@ -7,6 +7,7 @@
 <link rel="stylesheet" href="html/css/bootstrap.min.css">
   <link rel="stylesheet" href="html/css/style.css">
   <script src="html/js/jquery-3.1.1.min.js"></script>
+  <script type="text/javascript" src="html/js/treeview.js"></script>
   <script src="html/js/bootstrap.min.js"></script>
 </head>
 <nav class="navbar navbar-default">

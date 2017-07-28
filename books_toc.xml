@@ -1,0 +1,565 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE kannada SYSTEM "apk_kannada.dtd">
+
+<dhvanyaloka>
+	<book code="001" btitle="F. R. Leavis - Birth Centenary Essays">
+		<s1 title="F.R. Leavis: Personal Reminiscences - <i>C.D. Narasimhaiah</i>" page="0001"></s1>
+		<s1 title="F.R. Leavis in 1975 and in 1995 - <i>L.R. Leavis</i>" page="0013"></s1>
+		<s1 title="Leavis&#8217;s English - <i>G. Singh, The Queen&#8217;s University of Belfast</i>" page="0017"></s1>
+		<s1 title="F.R. Leavis and the Indian Critical Scene - <i>Mohan Ramanan, University of Hyderabad</i>" page="0032"></s1>
+		<s1 title="Literature, Science and Culture - <i>Sachidananda Mohanty, University of Hyderabad</i>" page="0039"></s1>
+		<s1 title="Teaching Leavis, a Unique Experience - <i>Sudha P. Pandya, M.S. University, Baroda</i>" page="0049"></s1>
+		<s1 title="Reading the Text: The Example of F.R. Leavis - <i>S.C. Hajela, Lucknow University</i>" page="0055"></s1>
+		<s1 title="F.R. Leavis: a post-colonial cultural response - <i>N. Manu Chakravarthy, N.M.K.R.V. College, Bangalore</i>" page="0063"></s1>
+		<s1 title="F.R. Leavis and a Plea for Liberal Education - <i>C.N. Ramachandran, Mangalore University</i>" page="0073"></s1>
+		<s1 title="&#8220;Collaboration,&#8221; &#8220;Corroboration,&#8221; or &#8220;The Third Realm&#8221;? - <i>M. Sridhar, University of Hyderabad</i>" page="0080"></s1>
+		<s1 title="Culture or Cultures? F.R. Leavis Against C.P. Snow - <i>A. Madhavan, Formerly of Indian Foreign Service, now in Mysore</i>" page="0089"></s1>
+		<s1 title="The Provinicialism of F.R. Leavis - <i>R.K. Kaul, University of Rajasthan</i>" page="0099"></s1>
+		<s1 title="Dhvanyaloka Announcements" page="0110"></s1>
+	</book>
+	<book code="002" btitle="Problems of Translation">
+		<s1 title="Introduction" page="0000"></s1>
+		<s1 title="What is Literal Translation? - <i>K.S. Ram</i>" page="0001"></s1>
+		<s1 title="On Translation of Vachanas - <i>D.P. Pattanayak</i>" page="0011"></s1>
+		<s1 title="On Translating Literature - <i>Avadhesh K. Srivastava</i>" page="0016"></s1>
+		<s1 title="Creative Translation : A Personal Point of View - <i>K.V. Tirumalesh</i>" page="0022"></s1>
+		<s1 title="The Mythology of Translation - <i>B.M. Sagar</i>" page="0032"></s1>
+		<s1 title="The Translator as Reader - <i>K. Narayana Chandran</i>" page="0043"></s1>
+		<s1 title="<i>Silappadikaram :</i> Notes on the Text and Its Translations - <i>R.S. Pillai</i>" page="0049"></s1>
+		<s1 title="The Problems of Translation - <i>Maya Pandit</i>" page="0056"></s1>
+		<s1 title="Some Notes on Translating Poetry - <i>K. Godavari Sarma</i>" page="0065"></s1>
+		<s1 title="On Translating Modern Indian Classics into English - <i>S. Velayudhan</i>" page="0069"></s1>
+		<s1 title="Translation as New Writing - <i>Sujit Mukherjee</i>" page="0073"></s1>
+		<s1 title="Sample of a Day&#8217;s Proceedings at the Workshop on Translation held at Dhvanyaloka, Mysore - <i>C.N. Srinath</i>" page="0082"></s1>
+		</book>
+	<book code="003" btitle="Nobel Laureates in Literature">
+		<s1 title="Welcome - <i>C.N. Srinath</i>" page="0005"></s1>
+		<s1 title="Seamus Heaney : &#8216;The Inner Emigre&#8217; - <i>A. Madhavan</i>" page="0007"></s1>
+		<s1 title="Octavio Paz - A Note - <i>C.N. Srinath</i>" page="0020"></s1>
+		<s1 title="Luigi Pirandello - <i>S. Ramaswamy</i>" page="0028"></s1>
+		<s1 title="Where the Wilderness Blooms : The Art and Vision of J.M. Coetzee - <i>Ragini Ramachandra</i>" page="0039"></s1>
+		<s1 title="Patterns of Creativity in Shakespeare, Beethoven and Newton as seen by Nobel Laureate S. Chandrasekhar - <i>C. Naganna</i>" page="0048"></s1>
+		<s1 title="Appropriating the Other, or the Appropriatable Other? Yeats, Tagore and the Prize of 1913 - <i>Ravishankar Rao</i>" page="0057"></s1>
+		<s1 title="Miguel Asturias&#8217;s <i>The Cyclone</i> : of the Fruit and the Fuitlessness of Life - <i>G.I. Sheriff</i>" page="0072"></s1>
+		<s1 title="Harold Pinter : A Tribure - <i>S. Ramaswamy</i>" page="0085"></s1>
+		<s1 title="&#8216;An Entry into Oppression&#8217; Closed Rooms&#8217;s : A Study of Harold Pinter&#8217;s Early Plays - <i>T. Jeevan Kumar</i>" page="0096"></s1>
+		<s1 title="Naipaul&#8217;s (Re) Figurations of Third World Cultures - <i>T.R.S. Sharma</i>" page="0105"></s1>
+		<s1 title="Appendix : Raman and Chandra - <i>G.T. Narayana Rao</i>" page="0125"></s1>
+	</book>
+	<book code="004" btitle="Identity of Text and Reader Response">
+		<s1 title="The Identity of Text : Problems and Reliability in Reader - Response : Introductory Talk - <i>C.D. Narasimhaiah</i>" page="0001"></s1>
+		<s1 title="Reader&#8217;s Response : An Indian View - <i>S. Laxmana Murthy</i>" page="0010"></s1>
+		<s1 title="Some Response to &#8216;The Windhover&#8217; - <i>R.A. Jayantha</i>" page="0017"></s1>
+		<s1 title="The Ban on Aubrey Menen&#8217;s Rama Retold - <i>Mohamed Elias</i>" page="0027"></s1>
+		<s1 title="Gramscian Hegemony : A Paradigm of Reader-Response Aesthetics - <i>Tejwant S. Gill</i>" page="0038"></s1>
+		<s1 title="The Identity of the Literary Text : Problems and Reliability of Reader Response : An Inquiry into Theoretical Positions - <i>Gurbhagat Singh</i>" page="0049"></s1>
+		<s1 title="Is There A Reader in the Class? - <i>Swapan Majumdar</i>" page="0058"></s1>
+		<s1 title="The Text and The Reader - <i>Ayyappa Panikar</i>" page="0063"></s1>
+		<s1 title="In Search of the Text : A Comparative Study of Western and Eastern Concepts - <i>C.N. Ramachandran</i>" page="0069"></s1>
+		<s1 title="T.S. Eliot Through Western and Eastern Eyes - <i>C.T. Thomas</i>" page="0080"></s1>
+		<s1 title="Vikram Seth&#8217;s The Golden Gate - <i>Rowena Hill</i>" page="0087"></s1>
+		<s1 title="Two Indian Responses to Hamlet - <i>Ragini Ramachandra</i>" page="0091"></s1>
+		<s1 title="A Report on the Proceedings of a Three-Day Seminar on &#8220;Identity of Text : Problems and Reliability of Reader Response&#8221; held at Dhvanyaloka from July 10-13, 1986 - <i>Ragini Ramachandra, Jayashree Sanjay</i>" page="0098"></s1>
+		<s1 title="A Note on Comparative Indian Literature Vols. 1 and 2, K. M. George - <i>Makarand Paranjape</i>" page="0112"></s1>
+		<s1 title="The Dynamics of Text Creation : A Synthesis - <i>K. Chellappan</i>" page="0114"></s1>
+		<s1 title="Socio-Historical Context of Literature : The Response of Indian Reader to A.S. Pushkin&#8217;s &#8220;The Station Master&#8221; - <i>J.P. Dimri, Charumathi Ramdas</i>" page="0123"></s1>
+	</book>
+	<book code="005" btitle="Kipling&#8217;s India">
+		<s1 title="Introductory Talk - <i>C.D. Narasimhaiah</i>" page="0001"></s1>
+		<s1 title="Keynote Address - <i>Alan Maley</i>" page="0008"></s1>
+		<s1 title="Kipling as Chronicler of the Empire : Ambivalences and Archetypes - <i>C.N. Ramachandran</i>" page="0012"></s1>
+		<s1 title="Collective Identity in Kipling&#8217;s <i>Kim</i> : Deconstructing Imperialism -<i>K. Raghavendra Rao</i>" page="0022"></s1>
+		<s1 title="Rudyard Kipling and the Indian Novel in English - <i>K. S. Ramamurthi</i>" page="0031"></s1>
+		<s1 title="The Relevance of the Irish Aspect in Rudyard Kipling&#8217;s <i>Kim</i> - <i>J. Mukherjee</i>" page="0041"></s1>
+		<s1 title="The Child in Kipling&#8217;s Fiction : An Analysis - <i>Radha Achar</i>" page="0046"></s1>
+		<s1 title="Kipling&#8217;s India : A Study of Some Short Stories - <i>S.T. Sharma</i>" page="0054"></s1>
+		<s1 title="A Note on Kipling&#8217;s Simla with particular reference to The story of the Gadsbys - <i>S. Ramaswamy</i>" page="0062"></s1>
+		<s1 title="The Naulakha and Post-Kipling British Fiction on India - <i>D.A. Shankar</i>" page="0071"></s1>
+		<s1 title="A Limited Choice of Kipling&#8217;s Verse&#8212;the Native Vision of an &#8216;Imperialist&#8217;&#8212;A Note - <i>C.N. Srinath</i>" page="0080"></s1>
+		<s1 title="Kipling&#8217;s &#8220;The Bridge-Builders&#8221;&#8212;An Excursion Into Value Structure - <i>R. Ramachandra</i>" page="0087"></s1>
+		<s1 title="A Report" page="0092"></s1>
+	</book>
+	<book code="006" btitle="Negotiating Differences - Aspects of Contemporary Canadian Literature">
+		<s1 title="Between a Rock and a Hard Place - <i>Claire Harris</i>" page="0001"></s1>
+		<s1 title="South Asian Novelists in Canada : Narratives of Dislocations and Relocations - <i>Nilufer E. Bharucha</i>" page="0013"></s1>
+		<s1 title="New Directions in South Asian Canadian Literature - <i>Uma Parameswaran</i>" page="0023"></s1>
+		<s1 title="Towards a World of Freedom : The Child-Centred Vision in James Reaney&#8217;s <i>The Donnellys</i> - <i>P.A. Abraham</i>" page="0038"></s1>
+		<s1 title="Writing Canadian Drama in Colonial Space : Interrogation and Subversion - <i>Eugene Benson</i>" page="0050"></s1>
+		<s1 title="To Seize the Word Through &#8216;Unspeaking&#8217; : A Reading of France Theoret - <i>Shirin Kudchedkar</i>" page="0063"></s1>
+		<s1 title="The Tyranny of Letters : Is Writing Deletion? : A Study of Lee Maraclea Sajaumers Truth and Other Stories - <i>C.P. Ravichandra</i>" page="0075"></s1>
+		<s1 title="Nation and Narration : An Analysis of Joy Kogawa&#8217;s Fiction - <i>Roshan G. Shahani &amp; Gitanjali Shahani</i>" page="0084"></s1>
+		<s1 title="&#8216;plunging toward stones not yet formed into flesh, language not yet made;&#8217; Dionne Brand&#8217;s &#8216;No Language is Neutral and the Poetics of the Possible&#8217; - <i>Kalyani Pandya</i>" page="0096"></s1>
+		<s1 title="The Subversive Art of Margaret Atwood in <i>The Handmaids Tale</i> - <i>Kamala Gopalan</i>" page="0113"></s1>
+		<s1 title="The Audience-Player Interface: Crossing the Boards in <i>To Run With Longboat: Twelve Stories of Indian Athletes in Canada</i> - <i>B. Hariharan</i>" page="0125"></s1>
+		<s1 title="P.K. Page: Some Mystical Aspects - <i>Anjali Bhelande</i>" page="0134"></s1>
+		<s1 title="&#8220;The Quiet Rebellion &#8216;Against Spike Heels and Blue-Serge Suits.&#8217; in Tomson Highway&#8217;s <i>The Rez Sisters</i>&#8221; - <i>Coomi S. Vevaina</i>" page="0151"></s1>
+		<s1 title="Interview with James Reaney - <i>M. Dasan</i>" page="0165"></s1>
+	</book>
+	<book code="007" btitle="What have the Arts in Common">
+		<s1 title="Prefatory Remarks - <i>Kapila Vatsyayan</i>" page="0000"></s1>
+		<s1 title="What have the Arts in Common? Notes towards an Inquiry - <i>C.D. Narasimhaiah</i>" page="0001"></s1>
+		<s1 title="What is Common to the Arts? - <i>S.L. Bhyrappa</i>" page="0016"></s1>
+		<s1 title="Poetry and Painting : A Study in Parallels - <i>R.K. Raval</i>" page="0021"></s1>
+		<s1 title="Literature and Painting : What have the Two in Common? - <i>Ragini Ramachandra</i>" page="0033"></s1>
+		<s1 title="Creativity : A Psychological Analysis - <i>R.L. Kapur and Susmita Subramanyam</i>" page="0039"></s1>
+		<s1 title="The Art of Cartooning - <i>R.K. Laxman</i>" page="0047"></s1>
+		<s1 title="Arts in a Period of Change - <i>Keshav Malik</i>" page="0057"></s1>
+		<s1 title="Does Television Exist if you don't Watch it? - <i>Arshia Sattar</i>" page="0062"></s1>
+		<s1 title="Autonomy and Wholeness&#8212;Thinking about Creativity and Self-Expression - <i>S.C. Malik</i>" page="0072"></s1>
+		<s1 title="Rhythm is what is Common to all Heightened Expression - <i>Mulk Raj Anand</i>" page="0081"></s1>
+		<s1 title="Issues in Aesthetics and Classical Arts - <i>Rajiv Taranath</i>" page="0088"></s1>
+		<s1 title="Artists, Art-Critics and Sahrdays - <i>K. Kunjunni Raja</i>" page="0095"></s1>
+		<s1 title="The Arts : Intangible Source and their Tangible Course - <i>Padma Subrahmanyam</i>" page="0105"></s1>
+		<s1 title="Musical Creativity : Its Affinity with other Arts and its Uniqueness - <i>Premlata Sharma</i>" page="0115"></s1>
+		<s1 title="Approaching Aboriginal Art - <i>Baidyanath Saraswati</i>" page="0122"></s1>
+		<s1 title="Meaning in Music - <i>R. Sathyanarayana</i>" page="0133"></s1>
+		<s1 title="<i>Vak</i> and Creativity - <i>Vidya Nivas Mishra</i>" page="0144"></s1>
+		<s1 title="Classical Arts : Truth, Cognition and Change - <i>Prathibha Prahlad</i>" page="0147"></s1>
+		<s1 title="Mind&#8217;s Eye : Transformation of the Image in Painting and Poetry - <i>S. Murali</i>" page="0153"></s1>
+		<s1 title="<i>Arupa</i> and <i>Rupa</i> in Art - <i>Chinmay Mehta</i>" page="0163"></s1>
+		<s1 title="A Report" page="0172"></s1>
+	</book>
+	<book code="008" btitle="The Flowering of Australian Literature">
+		<s1 title="Preface" page="0000"></s1>
+		<s1 title="Introduction - <i>C.D. Narasimhaiah</i>" page="0000"></s1>
+		<s1 title="A Later Note on &#8216;Identity&#8217; - <i>Vincent Buckley</i>" page="0001"></s1>
+		<s1 title="Australian Literature of the 1890&#8217;s - <i>John Docker</i>" page="0007"></s1>
+		<s1 title="The Tradition of Social Responsibility in the Australian Novel : Richardson and Furphy - <i>Dorothy Green</i>" page="0023"></s1>
+		<s1 title="A Single Bone-Clean Button : The Achievement of Patrick White - <i>V. Brady</i>" page="0035"></s1>
+		<s1 title="Form and Expectation in Christina Stead&#8217;s Novellas - <i>Jan Reid</i>" page="0048"></s1>
+		<s1 title="The Death of Satan and the Persistence of Romanticism - <i>David Carter</i>" page="0059"></s1>
+		<s1 title="Judith Wright, Hope, McAuley - <i>Leonie Kramer</i>" page="0083"></s1>
+		<s1 title="Recent and Contemporary Australian Poetry : Some Notes - <i>R.F. Brissenden</i>" page="0093"></s1>
+		<s1 title="Henry Lawson and the Work Ethic - <i>Brian Matthews</i>" page="0108"></s1>
+		<s1 title="Naturalism and Seriousness in Australian Drama Today - <i>T. Burvill</i>" page="0117"></s1>
+		<s1 title="Australian Literary History - <i>Chris Wallace Crabbe</i>" page="0131"></s1>
+		<s1 title="Bosom of Nature or Heart of Stone : A difference in Heritage - <i>Andrew Taylor</i>" page="0144"></s1>
+		<s1 title="Teaching Australian Literature : Notes and Recollections - <i>A. D. Hope</i>" page="0157"></s1>
+		<s1 title="More Sinned Against than Sinning : A Note on the Convict Legend - <i>Barry Andrews</i>" page="0166"></s1>
+		<s1 title="Thomas Keneally&#8217;s <i>Passenger</i> and teh Middle Voice - <i>Mark Macleod</i>" page="0183"></s1>
+		<s1 title="Australia : A Backward Glimpse - <i>Geoffrey Blainey</i>" page="0195"></s1>
+	</book>
+	<book code="009" btitle="Fifty Years of Things Fall Apart">
+		<s1 title="Welcome by the Director - <i>C.N. Srinath</i>" page="0000"></s1>
+		<s1 title="Introduction - <i>Bala Kothandaraman</i>" page="0005"></s1>
+		<s1 title="Reconsidering <i>Things Fall Apart:</i> Changing Critical Perspectives, 1958 - 2008 - <i>C.L. Innes</i>" page="0011"></s1>
+		<s1 title="Some Associated Thoughts on Achebe&#8217;s Visit to Mysore and My Kannada Translation of <i>Things Fall Apart</i> - <i>C. Naganna</i>" page="0024"></s1>
+		<s1 title="The Flute and the Drum - <i>R. Ramachandra</i>" page="0033"></s1>
+		<s1 title="Do Things Fall Apart? &#8212; A Note on Polyvalent Umuofia and Achebe&#8217;s Art of Ambivalence - <i>A.S. Dasan</i>" page="0040"></s1>
+		<s1 title="The Clan as Protagonist in <i>Things Fall Apart</i> - <i>Ragini Ramachandra</i>" page="0047"></s1>
+		<s1 title="Re-Imaging the Images of Women - an Alternative Reading of <i>Things Fall Apart</i> - <i>H. Madhava Bhat</i>" page="0057"></s1>
+		<s1 title="<i>Appendix - Things Fall Apart:</i> An Enquiry into Rasa-Configuration - <i>Madhusudhan Pati</i>" page="0066"></s1>
+		<s1 title="Review Article : Chinua Achebe&#8217;s Africa - <i>Bernth Lindfors</i>" page="0083"></s1>
+	</book>
+	<book code="010" btitle="Commonwealth Autobiography">
+		<s1 title="Common wealth Autobiography : An Introduction - <i>C.D. Narasimhaiah</i>" page="0001"></s1>
+		<s1 title="Autobiography and the Metaphysic of Transparency - <i>Prabhat K. Singh, Magadh University, Gaya</i>" page="0010"></s1>
+		<s1 title="In the Cultural Hall of Mirrors : Issue of Gender Genre Incompatibility of Women&#8217;s Autobiography - <i>Ranjana Harish, Gujarat University</i>" page="0025"></s1>
+		<s1 title="Autobiography as History : The case of Fakir Mohan - <i>Sachidananda Mohanty, University of Hyderabad</i>" page="0033"></s1>
+		<s1 title="The Ideologue and the Pragmatist/Strategist: Tonal variations in Commonwealth Autobiography - <i>P. Radhika, Fatima Mata National College, Kollam</i>" page="0050"></s1>
+		<s1 title="Beyond Personal History : Zulfikar Ghose&#8217;s Confessions of A Native Alien - <i>June Gaur, Mysore</i>" page="0063"></s1>
+		<s1 title="Flaws in the Glas - <i>Gita Krishnakutty, Madras</i>" page="0071"></s1>
+		<s1 title="Two Indian English Autobiographies : A study in constrast - <i>G.S. Balrama Gupta, Gulbarga University</i>" page="0074"></s1>
+		<s1 title="&#8220;THERE WAS A BOY&#8221;: Ake as Romantic Autobiography - <i>Mary T. David, Mother Teresa University</i>" page="0083"></s1>
+		<s1 title="The Autobiographies of Two Globe Trotters - <i>C.R. Nambiar, Mahatma Gandhi University, Kottayam</i>" page="0094"></s1>
+		<s1 title="Susanna Moodie; Roughing it in the Bush - <i>Jayashree Sanjay, Mahajana College, Mysore</i>" page="0103"></s1>
+		<s1 title="Short Notice" page="0108"></s1>
+	</book>
+	<book code="011" btitle="African Literature Comes of Age">
+		<s1 title="Foreword" page="0000"></s1>
+		<s1 title="Introduction" page="0000"></s1>
+		<s1 title="Part One : Oral Heritage" page="0001">
+			<s2 title="Igbo Folklore - <i>E. Onwukwe</i>" page="0001"></s2>
+		</s1>
+		<s1 title="Part Two : Poetry" page="0013">
+			<s2 title="A Traditional Poet in Modern Garb : Okot p'Bitek - <i>Ndubuisi C. Osuagwu</i>" page="0013"></s2>
+			<s2 title="J.P. Clark as a Poet - <i>Isaac I. Elimimian</i>" page="0030"></s2>
+			<s2 title="Pain and Anguish of an African Poet : Dennis Brutus and South African Reality - <i>Jasper A. Onuekwusi</i>" page="0059"></s2>
+			<s2 title="New Trends in Nigerian Poetry : The Poetry of Niyi Osundare and Chinweizu - <i>Aderemi Bamikunle</i>" page="0069"></s2>
+		</s1>
+		<s1 title="Part Three : Drama" page="0087">
+			<s2 title="Soyinka&#8217;s Symbolic Models of Social Reality and Dramatic Conflict - <i>Akomaye Oko</i>" page="0087"></s2>
+			<s2 title="Ola Rotimi : A Popular Nigerian Dramatist and Man of the Theatre - <i>Kalu Okpi</i>" page="0106"></s2>
+			<s2 title="Henshaw and the Genesis of Literary Theatre in Nigeria <i>Chris Nwamuo</i>" page="0118"></s2>
+			<s2 title="Wole Soyinka and Predecessors: Deviation, Conformism and Non-Conformism - <i>Edde M. Iji</i>" page="0131"></s2>
+		</s1>
+		<s1 title="Part Four : Novel" page="0143">
+			<s2 title="African Aesthetics in Elechi Amadi&#8217;s <i>The Slave</i> - <i>Ebele Eok</i>" page="0143"></s2>
+			<s2 title="Bessie Head&#8217;s <i>A Question of Power :</i> The Mythic Dimension - <i>Rukmini Vanamali</i>" page="0154"></s2>
+			<s2 title="Recent Fiction From Africa : Chinua Achebe&#8217;s <i> Anthills of the Savannah&#8212;A Note</i> - <i>A. Ravenscroft</i>" page="0172"></s2>
+			<s2 title="Technique and Language in Uchenna Ubesie&#8217;s Fiction - <i>Ernest N. Emenyonu</i>" page="0176"></s2>
+		</s1>
+		<s1 title="Part Five : Criticism" page="0185">
+			<s2 title="Formalism and the Criticism of African Literature : The Case of Anglo-American New Criticism - <i>Chidi T. Maduka</i>" page="0185"></s2>
+			<s2 title="Rhetoric in the West African Novel - <i>Emelia Oko</i>" page="0201"></s2>
+			<s2 title="The Role of Contemporary Female Nigerian Writers in the Education of Nigerian Youth - <i>Patricia T. Emenyonu</i>" page="0216"></s2>
+			<s2 title="Where Angels Fear to Tread : Chinua Achebe and Wole Soynika as Critics of the African Scene - <i>C.D. Narasimhaiah</i>" page="0222"></s2>
+		</s1>
+		<s1 title="Appendix : A Folk Story from Southern Nigeria" page="0237"></s1>
+	</book>
+	<book code="012" btitle="New Directions in African Writing">
+		<s1 title="Insiders and Outsiders : Perspectives Of Influences On the Study Of African Literature - <i>Victor S. Dugga</i>" page="0005"></s1>
+		<s1 title="Africa and the Indians : Outsiders or Insiders? - <i>Anjali Gera Roy</i>" page="0015"></s1>
+		<s1 title="Innovations and Continuities : The Post Millennium Nigerian Novel - <i>Joseph McLaren</i>" page="0021"></s1>
+		<s1 title="Patterns of the English Syllabic Structure in Wole Soyinka&#8217;s &#8220;Harvest of Hate&#8221;, &#8220;Black Singer&#8221; and &#8220;Her Joy is Wild&#8221; - <i>G.A. Ioratim-Uba</i>" page="0038"></s1>
+		<s1 title="Patterns in Emerging African Writing : The Examples of Nigeria&#8217;s Mailk Nwosu - <i>Ismail B. Garba</i>" page="0051"></s1>
+		<s1 title="<i>Morountodun</i> and the Politics of Liberation in Nigeria - <i>Emman Frank Idoko</i>" page="0067"></s1>
+		<s1 title="Adaptation or Revision? A Juxtapositional Analysis of Shakespeare&#8217;s <i>Romeo and Juliet,</i> Sofola&#8217;s <i>Wedlock of the Gods</i> and Osofisan&#8217;s <i>Farewell to a Cannibal Rage</i> - <i>Ameh Dennis Akoh</i>" page="0085"></s1>
+		<s1 title="Trends in the Development of Zimbabwean Literary Drama since 1968 - <i>Kennedy C. Chinyowa</i>" page="0102"></s1>
+		<s1 title="Enabling the Disabled through Theatre - <i>Emelda Ngufor Samba</i>" page="0127"></s1>
+		<s1 title="Centring the periphery through Communication: (The Case of Theatre for Community Development in Kenya) - <i>Christopher Odhaimbo Joseph</i>" page="0145"></s1>
+		<s1 title="Revision or Reconstruction? Memory and Artistic Creativity in Nuruddin Farah&#8217;s <i>Maps</i> and Tayeb Salih&#8217;s <i>Season of Migration to the North</i> - <i>Kanchana Ugbabe</i>" page="0162"></s1>
+		<s1 title="The Silent Scourge: Visual Literature as Threat to Written Literature in Nigeria - <i>Rahila P. Gowon</i>" page="0173"></s1>
+		<s1 title="Shit and Stench as Dramatic Strategy : Bate Besong&#8217;s <i>Beasts of no Nation</i> - <i>Hilarious N. Ambe</i>" page="0185"></s1>
+	</book>
+	<book code="013" btitle="Asian Identity in Literature">
+		<s1 title="Section - I" page="0000">
+			<s2 title="Welcome - <i>C.N. Srinath</i>" page="0000"></s2>
+			<s2 title="Introduction - <i>C.D. Narasimhaiah</i>" page="0001"></s2>
+			<s2 title="Note of Resistance and Reconciliation in the Poetry of Edwin Thumboo - <i>Prabhat K. Singh</i>" page="0013"></s2>
+			<s2 title="Images of the Sub-Continent in Sri Lankan Writing in English - <i>Rajiva Wijesinha</i>" page="0025"></s2>
+			<s2 title="The Expressive Otherness in Post-independence Singapore Chinese Literature - <i>Gabriel Wu</i>" page="0035"></s2>
+			<s2 title="The Swamp and the Silence : The Ban on Christian Missions in 17th Century Japan - <i>A. Madhavan</i>" page="0053"></s2>
+			<s2 title="Modern Nepali Poetry - A Note - <i>C.N. Srinath</i>" page="0068"></s2>
+			<s2 title="Japanese Drama and Theatre - <i>S. Ramaswamy</i>" page="0074"></s2>
+			<s2 title="Singapore Poetry in English : A Question of the Nation - <i>Robbie B.H. Goh</i>" page="0094"></s2>
+			<s2 title="Omar Khayyam&#8217;s <i>Rubaiyat :</i> An Initial Response - <i>G.S. Balarama Gupta</i>" page="0113"></s2>
+			<s2 title="Some Contemporary Thai Short Stories : A Few Random Thoughts - <i>Ragini Ramachandra</i>" page="0119"></s2>
+			<s2 title="&#8220;Letters of a Javanese Princess&#8221;: A Cultural Encounter - <i>Jayashree Sanjay</i>" page="0130"></s2>
+			<s2 title="A Report - <i>Ragini Ramachandra</i>" page="0141"></s2>
+		</s1>
+		<s1 title="Section - II" page="0000">
+			<s2 title="Tamil Culture and Society in Singapore - <i>E. Sukumar</i>" page="0005"></s2>
+			<s2 title="Problematizing Identity : Asian, Indian, Kannadiga...? - <i>H.S. Komalesha and Anjali Gera Roy</i>" page="0014"></s2>
+			<s2 title="Diplomatically Yours: Diplomats as Creative Writers - <i>A.G. Khan</i>" page="0030"></s2>
+			<s2 title="Woman, Society and Religion : Tehmina Durrani&#8217;s Quest for Identity - <i>K. Nirupa Rani</i>" page="0045"></s2>
+			<s2 title="Open Borders, Asian Immigrants and Expanding Ethos - <i>C.P. Ravichandra</i>" page="0054"></s2>
+			<s2 title="An Eastern Mystic in a Petrified Land : A Note on Letters of Kahlil Gibran - <i>C. Naganna</i>" page="0063"></s2>
+			<s2 title="Locating the Part(s) in the Partition of India : A Postcolonial Study of Bapsi Sidhwa&#8217;s <i>Ice Candy Man</i> - <i>Keya Majumdar</i>" page="0074"></s2>
+			<s2 title="The Relevance of Saadat Hasan Manto Today - <i>Shreya Bhattacharji</i>" page="0087"></s2>
+			<s2 title="Genji Monogotari : An Eleventh Century Japanese Novel by Murasaki No Shikibu - <i>B. Parvathi</i>" page="0097"></s2>
+			<s2 title="The Japanese folk tale - a product of popular culture - <i>Prema Srinivasan</i>" page="0109"></s2>
+			<s2 title="&#8220;The Day Lasts Longer than a Century in Inner-Most Asia : Chingiz Aitmatov&#8221; - <i>Vimala Ramarao</i>" page="0117"></s2>
+			<s2 title="Revelations From The Land of Terror - <i>N.S. Raghunath</i>" page="0128"></s2>
+			<s2 title="The Persian/Urdu Ghazal; A mode of Non-Conformist Utterance - <i>S.N.H. Jafri</i>" page="0148"></s2>
+			<s2 title="The Eighth Deadly Sin? A Reading of <i>We Sinful Women</i> - <i>Vijay Sheshadri</i>" page="0164"></s2>
+			<s2 title="<i>Manas :</i> A Symbol of Kyrgyz Identity - <i>Sindhu J.</i>" page="0172"></s2>
+			<s2 title="<i>Asia Awake (Poem)</i> - <i>C.N. Srinath</i>" page="0184"></s2>
+		</s1>
+	</book>
+	<book code="014" btitle="New Trends in British Literary Scene">
+		<s1 title="Editorial - <i>C.P. Ravichandra, Sally Bayley</i>" page="0000"></s1>
+		<s1 title="Children of Albion : Dr. Leavis amongst the Dongas Tribe - <i>Clive Bloom</i>" page="0005"></s1>
+		<s1 title="Re-Examining the Given Assumptions : Self Appraisal in Anita Brookner&#8217;s Fiction - <i>Rajni Walia</i>" page="0031"></s1>
+		<s1 title="New Scottish Poetry - The St. Andrews Poets - <i>David Williams</i>" page="0039"></s1>
+		<s1 title="The Comings and Goings of My Muse : Stevie Smith and the Free Poetic Passage - <i>Sally Bayley</i>" page="0047"></s1>
+		<s1 title="Herbert Read : Poetic Revisions - <i>Kieron Winn</i>" page="0063"></s1>
+		<s1 title="Coleridge and Ted Hughes : Mythology and Identity - <i>John Beer</i>" page="0071"></s1>
+		<s1 title="From the Cauvery to the Cam, from Downing to Dhvanyaloka : CD, Leavis and Sanskrit Poetics - <i>T.J. Li. Cribb</i>" page="0091"></s1>
+		<s1 title="Neo Lines : Alan Hollinghurst and the Apogee of the Eighties - <i>Joseph Brooker</i>" page="0104"></s1>
+		<s1 title="&#8216;So You want to be a Television Engineer?&#8217; Laughing at Class in Post-War Britian - <i>Nicky Marsh</i>" page="0117"></s1>
+		<s1 title="Larkin&#8217;s &#8216;Shakespeherian Rag&#8217;: A Reading of &#8220;Aubade&#8221; - <i>Henry Auster</i>" page="0131"></s1>
+		<s1 title="&#8220;There&#8217;s no place like home&#8221;: Exile and a Dream of Return in Salman Rushdie&#8217;s India Novels - <i>Ankhi Mukherjee</i>" page="0143"></s1>
+		<s1 title="&#8216;I enclose my character&#8217;: Private Addresses and Public Correspondence in the Work of Stevie Smith - <i>William May</i>" page="0153"></s1>
+		<s1 title="Shared Experience Theatre Company: Brechtian Revolution in London - <i>Julie Sutherland</i>" page="0161"></s1>
+		<s1 title="David Hare, <i>Stuff Happens,</i> dir. Nicholas Hytner (National Theatre) - <i>Matthew Bradley</i>" page="0168"></s1>
+		<s1 title="The Dusky Warriors Enter Heaven - <i>Murray Biggs</i>" page="0173"></s1>
+	</book>
+	<book code="015" btitle="F.R. Leavis : The Critic As Crusader &#8212; A Collection of Essays by Contemporary Chitics">
+		<s1 title="I - Leavis and Religion" page="0000">
+			<s2 title="Editorial - <i>C.N. Srinath</i>" page="0000"></s2>
+			<s2 title="Introduction by Guest Editor - <i>Emily Holman</i>" page="0001"></s2>
+			<s2 title="Leavis and Newman : Grammars of Dissent - <i>Paul Dean</i>" page="0020"></s2>
+			<s2 title="F.R. Leavis as a Critic of T.S. Eliot - <i>A.V.C. Schmidt</i>" page="0045"></s2>
+			<s2 title="Three Great Critics : F.R. Leavis, T.S. Eliot, and C.S. Lewis - <i>Michael Aeschliman</i>" page="0065"></s2>
+			<s2 title="&#8216;Seared in heart and mind&#8217;: Affirmation in the work of F.R. Leavis - <i>Chris Joyce</i>" page="0095"></s2>
+		</s1>
+		<s1 title="II" page="0000">
+			<s2 title="A Cyclops in the Philosopher&#8217;s Cave: Leavis and the Coleridgean function in our time - <i>Heward Wilkinson</i>" page="0120"></s2>
+			<s2 title="From Downing to Dhvanyaloka : Leavis, Nationalism and Sanskrit Poetics - <i>T.J. Cribb</i>" page="0137"></s2>
+			<s2 title="Leavis and the American Academy - <i>Philip Bufithis</i>" page="0150"></s2>
+			<s2 title="Why Leavis still matters in the crisis of a technologico-Benthamite age - <i>John Foster</i>" page="0162"></s2>
+			<s2 title="&#8216;Teacher and Critic&#8217;: what was the difference? - <i>Richard Storer</i>" page="0188"></s2>
+			<s2 title="The &#8220;Two Cultures&#8221;, Fifty Years on: A Personal Revaluation - <i>Michael Yudkin</i>" page="0210"></s2>
+			<s2 title="FR Leavis in the Present Critical Perspective - <i>TRS Sharma</i>" page="0227"></s2>
+			<s2 title="F.R. Leavis - C. D. Narasimhaiah, Encounter - its impact on the evolution of English Studies in India - <i>C.N. Srinath</i>" page="0244"></s2>
+		</s1>
+	</book>
+	<book code="016" btitle="R.K. Narayan Centenary Essays">
+		<s1 title="R.K. Narayan : A Personal Reminiscence - <i>C.N. Srinath</i>" page="0005"></s1>
+		<s1 title="R.K. Narayan Centenary Seminar at Dhvanyaloka, 8th &amp; 9th Nov. 2006 - <i>C. Naganna</i>" page="0008"></s1>
+		<s1 title="From Malgudi to Manhattan : R.K. Narayan&#8217;s <i>My Dateless Diary</i> as a Travelogue - <i>S. Ramaswamy</i>" page="0015"></s1>
+		<s1 title="Narayan&#8217;s Comic Vision - <i>S.K. Sarma</i>" page="0025"></s1>
+		<s1 title="R.K. Narayan, The Ironist (With Focus on his Short Stories) - <i>G.S. Balarama Gupta</i>" page="0034"></s1>
+		<s1 title="On the Non-Fictional Writings of R.K. Narayan: Some Rambling Thoughts - <i>Ragini Ramachandra</i>" page="0045"></s1>
+		<s1 title="The Greater Narayan: Ethos of Human Connectivity in Recent Indian English Fiction - <i>A.S. Dasan and Nalini Dasan</i>" page="0056"></s1>
+		<s1 title="Conflict Motif in R.K. Narayan&#8217;s The Dark Room - <i>Smita A. Majumdar</i>" page="0071"></s1>
+		<s1 title="The Charlatan in Narayan&#8217;s <i>Talkative Man</i> - <i>C.P. Ravichandra</i>" page="0084"></s1>
+		<s1 title="Notices from His Window - A Reading of R.K. Narayan&#8217;s A <i>Writer&#8217;s Nightmare</i> - <i>Vijay Sheshadri</i>" page="0089"></s1>
+	</book>
+	<book code="017" btitle="Indian Women&#8217;s Fiction Today">
+		<s1 title="Cooking India, the Fusion Trend: Reflecting On Indian Fiction in English Today - <i>G. K. Das</i>" page="0005"></s1>
+		<s1 title="Does the Indian English Woman Novelist write from the Margin? - <i>Bijay Kumar Das</i>" page="0013"></s1>
+		<s1 title="The Influence of Virginia Woolf on Women Novelists in Indian Fiction - <i>M.Q. Khan</i>" page="0029"></s1>
+		<s1 title="If Memories be Sweet: Thrity Umrigar&#8217;s Parsi-Imaging of Contemporary India - <i>A. S. Dasan</i>" page="0047"></s1>
+		<s1 title="A Critique of Manju Kapur&#8217;s novel <i>The Immigrant</i> - <i>Tapati Talukdar</i>" page="0061"></s1>
+		<s1 title="Conflicting Memories in Reema Moudgil&#8217;s <i>Perfect Eight</i> - <i>K. Yeshoda Nanjappa</i>" page="0070"></s1>
+		<s1 title="Between the Reel and the Real: A Reading of Jaishree Misra&#8217;s <i>Secrets and Lies</i> (2009) and <i>Secrets and Sins</i> (2010) - <i>Vijay Sheshadri</i>" page="0079"></s1>
+		<s1 title="A Review of Select Contemporary Indian Women&#8217;s Writing in English with Special Emphasis on Fiction - <i>H. Kalpana</i>" page="0087"></s1>
+		<s1 title="The Gaze in Shashi Deshpande&#8217;s &#8220;The Stone Women&#8221; (2003) - <i>S.N. Kiran</i>" page="0102"></s1>
+		<s1 title="Emergence of the New Woman: Contextualizing Feminism in Shashi Deshpande&#8217;s Novels - <i>Anupama Chowdhury</i>" page="0110"></s1>
+		<s1 title="Can the Subaltern be Spoken for? A Critique of Arundhati Roy&#8217;s <i>The God of Small Things</i> - <i>Sonali Das</i>" page="0129"></s1>
+		<s1 title="Chitra&#8217;s &#8220;Amazing&#8221; Novel - <i>Archana Srinath</i>" page="0141"></s1>
+		<s1 title="Tulsi Badrinath&#8217;s <i>Meeting Lives:</i> the &#8220;unfinished story&#8221; of a &#8220;twice-born&#8221; mother - <i>Ragini Ramachandra</i>" page="0146"></s1>
+		<s1 title="Deception and Revelation in Shashi Deshpande&#8217;s <i>In the Country of Deceit</i> (2008) - <i>M.S. Palaksha</i>" page="0158"></s1>
+		<s1 title="Diasporic Identity : Gender (ed) Representations in the Diasporic Indian English Women&#8217;s Fiction - <i>Ashalata Kulkarni</i>" page="0164"></s1>
+		<s1 title="Afterword - <i>C.N. Srinath</i>" page="0000"></s1>
+		<s1 title="Appendix - A Critique of three texts : <i>Tiger Hills</i> by Sarita Mandanna, <i>Almost Single</i> by Advaita Kala and <i>Secrets and Sins</i> by Jayasree Misra - <i>Geetha P.G.</i>" page="0177"></s1>
+	</book>
+	<book code="018" btitle="Kannada Literary Scene of the Past 50 Years">
+		<s1 title="The Guest Editor&#8217;s Note - <i>C. Naganna</i>" page="0000"></s1>
+		<s1 title="Introductory Remarks Kannada Literature of the Past Fifty Years - <i>C.N. Srinath</i>" page="0001"></s1>
+		<s1 title="Literary Criticism in Kannada: Concepts And Concerns - <i>C.N. Ramachandran</i>" page="0004"></s1>
+		<s1 title="Humanist Social Vision of A &#8216;Jungle Poet&#8217; - <i>N.S. Raghunath</i>" page="0021"></s1>
+		<s1 title="A Note On Devudu Narasimha Sastry&#8217;s <i>Mahadarshana</i> - <i>S. Ramaswamy</i>" page="0041"></s1>
+		<s1 title="What is Popular Fiction? - <i>C.P. Ravichandra</i>" page="0045"></s1>
+		<s1 title="Kannada Language and the Crises in the World - <i>Chandrashekar Kambar</i>" page="0061"></s1>
+		<s1 title="The Age of Kuvempu - <i>K.S. Bhagavan</i>" page="0070"></s1>
+		<s1 title="UR Ananthamurthy Ponders on Bhishma - A Commemorative Submission - <i>TRS Sharma</i>" page="0090"></s1>
+		<s1 title="The Words of Tatva - <i>Krishna Murthy Hanuru</i>" page="0097"></s1>
+		<s1 title="Sediyapu Krishna Bhatta&#8217;s Contribution: A Note - <i>C. Naganna</i>" page="0102"></s1>
+		<s1 title="Bendre&#8217;s Poetry - <i>G. Krishnappa</i>" page="0115"></s1>
+		<s1 title="Literary Journals in Kannada - <i>Chandrashekar Patil</i>" page="0122"></s1>
+	</book>
+	<book code="019" btitle="Drama as Form of Art and Theatre">
+		<s1 title="By way of Introduction to the Symposium - <i>C.D. Narasimhaiah</i>" page="0001"></s1>
+		<s1 title="The Alchemy of Company Theatre - <i>K.v. Akshara</i>" page="0010"></s1>
+		<s1 title="Folk Theatre and Social Structures : Tentative Comments - <i>C.N. Ramachandran</i>" page="0017"></s1>
+		<s1 title="The Status of Drama in an Age of Film, Television, Radio - <i>Vasanthi Shankaranarayanan</i>" page="0024"></s1>
+		<s1 title="Harikatha as a Performing Art - <i>C.N. Srinath</i>" page="0032"></s1>
+		<s1 title="Exploring the Theatrical Potential of Kamsale Narration/Performance - <i>H.S. Shivaprakash</i>" page="0036"></s1>
+		<s1 title="The Aesthetics of Black Protest Theatre - <i>K. Santhanam</i>" page="0046"></s1>
+		<s1 title="Metatheatricality : A View from Kathakali - <i>Sudha Gopalakrishnan</i>" page="0053"></s1>
+		<s1 title="The Kannada Theatre - A Saga of Success and Failure - <i>H.K. Ranganath</i>" page="0057"></s1>
+		<s1 title="Contemporary Punjabi Drama in India and Abroad - <i>S.N. Sewak</i>" page="0063"></s1>
+		<s1 title="The Drama Text as a &#8216;Pretext&#8217; : A Comparative Perspective - <i>S. Ramaswamy</i>" page="0074"></s1>
+		<s1 title="<i>Othello</i> and <i>Winter&#8217;s Tale:</i> A Dual Vision - <i>Ragini Ramachandra</i>" page="0083"></s1>
+		<s1 title="The Mobile Theatre in Karnataka - <i>Sindhuvally Ananthamurthy</i>" page="0092"></s1>
+		<s1 title="The Influence of Rituals on the Modern Malayalam Theatre - <i>H. Sadasivan Pillai</i>" page="0097"></s1>
+		<s1 title="Drama as Ritual - <i>B. Chandrika</i>" page="0108"></s1>
+		<s1 title="Lesson on Dramatic Design - <i>M.S. Pati</i>" page="0116"></s1>
+		<s1 title="Impact of Cinema and Television on Recent Kannada Theatre - <i>Laxmi Chandrashekar</i>" page="0128"></s1>
+		<s1 title="Perspective on Acting in Traditional Theatre of Kerala - <i>Chandradasan</i>" page="0133"></s1>
+		<s1 title="Classical Indian Drama in the Light of Natyasastra - <i>K. Krishnamoorthy</i>" page="0142"></s1>
+		<s1 title="Is Tragedy the Last Word in Art Experience? - <i>K.S. Shanthamani</i>" page="0147"></s1>
+		<s1 title="A Report on the Proceedings of a Three-Day Symposium" page="0155"></s1>
+		<s1 title="Book Review" page="0166"></s1>
+	</book>
+	<book code="020" btitle="The Literary Criterion">
+		<s1 title="Editorial - <i>C.N. Srinath</i>" page="0000"></s1>
+		<s1 title="Vishwanatha&#8217;s <i>Ramayana Kalpavruksham</i> and Kuvempu&#8217;s <i>Ramayana Darshanam:</i> A Comparative Study - <i>T.V. Subba Rao</i>" page="0001"></s1>
+		<s1 title="Prosodic Verse in Telugu from 1960 to the Present Day: A Select Study - <i>T. Viswanadha Rao</i>" page="0015"></s1>
+		<s1 title="Trend Setting Voices in Modern Telugu Poetry - <i>R.V.S. Sundaram</i>" page="0031"></s1>
+		<s1 title="New Democratic Movements and Telugu Novel - <i>Katyayani Vidmahe</i>" page="0040"></s1>
+		<s1 title="<i>Thousand Hoods:</i> Viswanatha&#8217;s <i>Veyipadagalu</i> in English: An Appreciation - <i>T.V. Subba Rao, T.R. Shashipriya</i>" page="0061"></s1>
+		<s1 title="The Telugu Short Story Since 1960s - <i>Madhuranthakam Narendra</i>" page="0067"></s1>
+		<s1 title="Telugu Short Story After 1950 - <i>Rachapalem Chandrasekhara Reddy</i>" page="0081"></s1>
+		<s1 title="Telugu Travelogue After 1960 - <i>M. Adinarayana</i>" page="0100"></s1>
+		<s1 title="Letters of Literary Personalities in Telugu since 1950 : A select study - <i>T.R. Shashipriya, T.V. Subbarao</i>" page="0113"></s1>
+		<s1 title="Telugu Literary Magazines From 1960 to Date - <i>Kothapalli Ravibabu</i>" page="0142"></s1>
+		<s1 title="Review Article - <i>Debendra Kumar Ray</i>" page="0154"></s1>
+		<s1 title="Book Review - <i>Ragini Ramachandra</i>" page="0163"></s1>
+		<s1 title="A Report on the proceedings of the C.N. Sanjay 60<sup>th</sup> Year Commemoration National Seminar on Contemporary Telugu Literary Scene held at Dhvanyaloka, Mysore (Nov. 7-8, 2015)" page="0168"></s1>
+	</book>
+	<book code="021" btitle="Great Moments in Life and Literature">
+		<s1 title="Siddartha&#8217;s Walking Away From Palace - <i>C.D. Narasimhaiah</i>" page="0001"></s1>
+		<s1 title="Meetings Ungraced By Cricumstance - <i>R. Ramachandra</i>" page="0011"></s1>
+		<s1 title="Valmiki and Gandhi - <i>N.S. Raghunath</i>" page="0021"></s1>
+		<s1 title="Arjuna&#8217;s Dolour and the Genesis of the <i>Bhagavadgita</i> - <i>A.P. Dani</i>" page="0030"></s1>
+		<s1 title="Andre Malraux&#8217;s &#8220;Conversation&#8221; with Adi Sankara - <i>S. Ramaswamy</i>" page="0033"></s1>
+		<s1 title="Supple Confusions : Macaulay on India - <i>A. Madhavan</i>" page="0038"></s1>
+		<s1 title="Great Moments in Life and Literature - <i>Ragini Ramachandra</i>" page="0046"></s1>
+		<s1 title="Exile in Life and Literature - <i>C.N. Srinath</i>" page="0055"></s1>
+		<s1 title="Under the Shadow of the Stealth Bomber - <i>Ravichandra P. Chittampalli</i>" page="0064"></s1>
+		<s1 title="Soka and Sloka - <i>H.S. Komalesh</i>" page="0072"></s1>
+		<s1 title="Great Moments in Life A &#8216;Brush&#8217; with Sir C.V. - <i>G.T. Narayana Rao</i>" page="0076"></s1>
+		<s1 title="Expanding Moments - <i>Prabhat K. Singh</i>" page="0084"></s1>
+		<s1 title="C.N. Sanjay Birth Anniversary Symposium: A Retrospect - <i>Ragini Ramachandra</i>" page="0092"></s1>
+		<s1 title="Machaulay&#8217;s Minute : Two Impressions" page="0097">
+			<s2 title="(1) The Casting Vote And The Die Is Cast For a Nation - <i>C.N. Ramachandran</i>" page="0097"></s2>
+			<s2 title="(2) Machaulay&#8217;s &#8216;Imperishable Empire&#8217; - <i>K.C. Belliappa</i>" page="0103"></s2>
+		</s1>
+		<s1 title="Yeatsian and Achebean Visions of Terrible Beauty in the Gyres of History - <i>A.S. Dasan</i>" page="0105"></s1>
+	</book>
+	<book code="022" btitle="Glimpses of New Zealand Literature">
+		<s1 title="Introduction - <i>Jane Stafford</i>" page="0001"></s1>
+		<s1 title="Mason First? - <i>Harry Ricketts</i>" page="0005"></s1>
+		<s1 title="Reconstructing the Canon? Editing the Oxford Anthology of New Zealand Poetry - <i>Mark Williams</i>" page="0014"></s1>
+		<s1 title="Themes and Reconciliation: Exploring the History of Rangiatea - <i>Te Ahukaramu Charles Royal</i>" page="0032"></s1>
+		<s1 title="The Fact of the Matter : History, Narrative and Record in <i>The Singing Whakapapa</i> and <i>Tasman&#8217;s Lay</i> - <i>Lydia Wevers</i>" page="0047"></s1>
+		<s1 title="Poems" page="0058">
+			<s2 title="Gregory O'Brien" page="0058"></s2>
+			<s2 title="Vincent O&#8217;ullivan" page="0073"></s2>
+			<s2 title="Brian Turner" page="0081"></s2>
+			<s2 title="Glen and I" page="0085"></s2>
+			<s2 title="Diana Bridge" page="0101"></s2>
+			<s2 title="Rachel Bush" page="0107"></s2>
+			<s2 title="Chris Orsman" page="0111"></s2>
+			<s2 title="Alan Riach" page="0116"></s2>
+		</s1>
+		<s1 title="Notes Towards Exploration of Australasian Bonds" page="0120"></s1>
+		<s1 title="Appendix" page="0000"></s1>
+	</book>
+	<book code="023" btitle="The Vitality of West Indian Literature - Caribbean and Indian Essasys">
+		<s1 title="In Guyana, at the Celebration of Indian Immigration: Search for Perspectives - <i>C.D. Narasimhaiah</i>" page="0009"></s1>
+		<s1 title="Lectio Doctoralis - <i>Wilson Harris</i>" page="0021"></s1>
+		<s1 title="Salutation : By His Excellency Dr. Rudi Webster, Ambassador of Barbados to the United States, to on the Presentation of the 1994 Neustadt Prize - <i>Kamau Brathwaite</i>" page="0028"></s1>
+		<s1 title="George Lamming : the Fruits of Cultural Dependence - <i>Ronald A. Williams</i>" page="0034"></s1>
+		<s1 title="Earl Lovelace and V.S. Naipaul : Representation of Trinidad - <i>Phil Langran</i>" page="0046"></s1>
+		<s1 title="What the Twilight Says : On Derek Walcott&#8217;s Poetry - <i>Gilles Macarie</i>" page="0065"></s1>
+		<s1 title="<i>The West Indian Novel and its Background Thirty Years Later</i> - <i>Kenneth Ramchand</i>" page="0088"></s1>
+		<s1 title="Lawrence Scott&#8217;s Caribbeanness : A Personal Reading of <i>Witchbroom and Aelred&#8217;s Sin</i> - <i>Hena Moes Jelinek</i>" page="0116"></s1>
+		<s1 title="To Get Rid of the &#8220;Illiteracy of the Imagination&#8221;: an Imperious. Necessity for Wilson Harris&#8217;s Protagonists - <i>Dominique DUBOIS</i>" page="0142"></s1>
+		<s1 title="Crossing a &#8220;Human River of Shattered Lives&#8221;: Caryl Phillips&#8217;s Diasporic Fiction/Vision - <i>Benedicte Ledent</i>" page="0157"></s1>
+		<s1 title="Throwing One&#8217;s Voice? Narrative Agency in Pauline Melville&#8217;s The Ventriloquist&#8217;s Tale - <i>John Thieme</i>" page="0170"></s1>
+		<s1 title="Brief Notes on Some West Indian Poems - <i>C.N. Srinath</i>" page="0193"></s1>
+		<s1 title="Caliban Agonistes - <i>A. Madhavan</i>" page="0198"></s1>
+		<s1 title="Out in the Open : &#8216;under - represented sexualties&#8217; in Shani Mootoos&#8217;s <i>Cereus Blooms at Night</i> (1996) and Lawrence Scott&#8217;s Aelred&#8217;s Sin (1998) - <i>Sarah Lawson Welsh</i>" page="0208"></s1>
+		<s1 title="Cross-Rhythms in Grace Nichols&#8217;s <i>Whole of a Morning Sky</i> - <i>Dolors Collellmir</i>" page="0232"></s1>
+		<s1 title="Palm Tree King - <i>John Agard</i>" page="0244"></s1>
+		<s1 title="To the Running of My River (For Kamal) - <i>Grace Nichols</i>" page="0247"></s1>
+		<s1 title="About Contributors" page="0248"></s1>
+		<s1 title="Appendix" page="0256">
+			<s2 title="Book Reviews" page="0256"></s2>
+			<s2 title="Dhvanyaloka News" page="0267"></s2>
+		</s1>
+	</book>
+	<book code="024" btitle="Western Writers On India">
+		<s1 title="Introduction - <i>C.D. Narasimhaiah</i>" page="0005"></s1>
+		<s1 title="Forster and Further - <i>Sujit Mukherjee</i>" page="0022"></s1>
+		<s1 title="Western Contribution to Indian Literary History - <i>Ragini Ramachandra</i>" page="0035"></s1>
+		<s1 title="The Resonance of India in the Novels of Durrell - <i>C. Ravindran Nambiar</i>" page="0047"></s1>
+		<s1 title="India in L.H. Myers&#8217;s <i>The Near and the Far</i> - <i>K.C. Belliappa</i>" page="0054"></s1>
+		<s1 title="The Dance of Shiva - <i>N. Eakambaram</i>" page="0070"></s1>
+		<s1 title="Homeward to One&#8217;s Self : Passages to India - <i>M.S. Nagarajan</i>" page="0085"></s1>
+		<s1 title="Thoreau, the Yankee Yogi : As Critic of Indian Thought and Literature - <i>C.N. Srinath</i>" page="0094"></s1>
+		<s1 title="Heinrich Zimmer&#8217;s Views on Ancient Indian Arts and Spiritual Traditions : A Critical Study - <i>K.S. Shantamani</i>" page="102"></s1>
+		<s1 title="Les Murray&#8217;s Indianness; The Celebratory Mode of his Poetry - <i>Anurag Sharma</i>" page="0110"></s1>
+		<s1 title="Passages to India : India in American Writing 1835-75 - <i>Niaz Zaman</i>" page="0120"></s1>
+		<s1 title="Paul Brunton : In Search of the Himalayas of the Mind - <i>S. Murali</i>" page="0129"></s1>
+		<s1 title="Ruth Prawer Jhabvala&#8217;s &#8220;The Widow&#8221; - <i>V.T. Usha</i>" page="0137"></s1>
+		<s1 title="Entering the Text of Paul Scott&#8217;s Johnnie Sahib - <i>Lakshmi Raj Sharma</i>" page="0142"></s1>
+		<s1 title="E.W. Savi&#8217;s Indian Novels; An Imperialistic Perspective - <i>Laxmi Moktali</i>" page="0152"></s1>
+		<s1 title="The Sally and David Mcalpin Lecture for 1991 - <i>Helen Tiffin</i>" page="0163"></s1>
+	</book>
+	<book code="025" btitle="The Literary Criterion">
+		<s1 title="Towards the Formulation of a Common Poetic for Indian Literatures - <i>C.D. Narasimhaiah</i>" page="0001"></s1>
+		<s1 title="The All-Time Relevance of Bharata&#8217;s Literary Canons - <i>K. Krishnamoorthy</i>" page="0011"></s1>
+		<s1 title="Classical Sanskrit Poetics Then and Now - <i>Ashok R. Kelkar</i>" page="0018"></s1>
+		<s1 title="Relevance of Classical Western Criticism in the Formulation of a Common Indian Poetic - <i>B. Damodar Rao</i>" page="0030"></s1>
+		<s1 title="The Case for an Indian Poetic Based on the Dhvani Theory - <i>Krishna Rayan</i>" page="0041"></s1>
+		<s1 title="The Three Alternatives - <i>R. B. Patankar</i>" page="0051"></s1>
+		<s1 title="Absence of Tragedy in Sanskrit Kavya-Literature - <i>Leela Arjunwadkar</i>" page="0064"></s1>
+		<s1 title="Sinhala Literature and the Concepts of Sanskrit Poetics - <i>Edeervira Sarachandra</i>" page="0074"></s1>
+	</book>
+	<book code="026" btitle="The Literary Criterion">
+		<s1 title="An Introduction - <i>C.D.N.</i>" page="0001"></s1>
+		<s1 title="<i>Bhakti</i> in Life and Literature - <i>S. Laxmana Murthy</i>" page="0010"></s1>
+		<s1 title="Nuances of Bhakti in the Ramayana - <i>K.S. Narayanachar</i>" page="0017"></s1>
+		<s1 title="Bhakti as Celebration of Life - <i>C.N. Ramachandran</i>" page="0030"></s1>
+		<s1 title="Bhakti of the Saranas - A Dynamic Literary Force - <i>H. Thipperudra Swamy</i>" page="0041"></s1>
+		<s1 title="An Approach to Dasa Sahitya - <i>G. S. Amur</i>" page="0052"></s1>
+		<s1 title="Bhakti Movement in Tamil : Special Emphasis on Manickavasagar and Andal - <i>R.S. Pillai</i>" page="0060"></s1>
+		<s1 title="Bhakti-Poetry in Hindi: Its Response to Challenges - <i>Ramesh Chandra Shah</i>" page="0069"></s1>
+		<s1 title="Bhakti in Telugu Folk Poetry - <i>K.V. Hanumantha Rao</i>" page="0082"></s1>
+		<s1 title="Bhakti versus Vibhakti - <i>Ayyappa Paniker</i>" page="0086"></s1>
+		<s1 title="Against Secularisation : A Note on Bhakti Poetry with Reference to Tukaram and Bhima Bhoi - <i>M.S. Pati</i>" page="0098"></s1>
+		<s1 title="Some Verbal Notes on Bhakti Literature - <i>C.N. Srinath</i>" page="0109"></s1>
+		<s1 title="The Magic Horse-<i>Thoughts on the uses of Aesthetic Modes of Communication in Sufism</i> - <i>H.S. Shiva Prakash</i>" page="0111"></s1>
+		<s1 title="A Bhakta in the Heart of the Church : St. John of the Cross" page="0118"></s1>
+		<s1 title="The Consciousness of Mystical Experience in the Works of Meister Eckhart - <i>Pramod Talgeri</i>" page="0125"></s1>
+		<s1 title="Gerard Manley Hopkins : Devotional Poet of &#8216;Unpropitious&#8217; Times - <i>R.A. Jayantha</i>" page="0133"></s1>
+		<s1 title="Kabir, Surdas and Mirabai - <i>K.S. Ram</i>" page="0147"></s1>
+		<s1 title="Report - <i>Ragini Ramachandran</i>" page="0153"></s1>
+		<s1 title="Book Reviews" page="0160">
+			<s2 title="Jane Austen - <i>Vimala Rama Rao</i>" page="0160"></s2>
+			<s2 title="Patterns of Myth and Reality - <i>Sudhir Prasad Singh</i>" page="0163"></s2>
+		</s1>
+	</book>
+	<book code="027" btitle="The Literary Criterion">
+		<s1 title="Welcome Address - <i>Indra Nath Choudhuri</i>" page="0000"></s1>
+		<s1 title="Introduction - <i>C.D. Narasimhaiah</i>" page="0001"></s1>
+		<s1 title="Dante and T.S. Eliot - <i>R.A. Malagi</i>" page="0019"></s1>
+		<s1 title="French Response to T.S. Eliot - <i>L. Bhattacharya</i>" page="0033"></s1>
+		<s1 title="The Family and the Outsider - <i>Chandrika B.</i>" page="0042"></s1>
+		<s1 title="T.S. Eliot Through Indian Eyes - <i>Makarand R. Paranjape</i>" page="0050"></s1>
+		<s1 title="T.S. Eliot and Canadian Response - <i>T. Nageswar Rao</i>" page="0068"></s1>
+		<s1 title="&#8220;Shantha as the Pradhanarasa&#8221; in Murder in the Cathedral - <i>Ragini Ramachandra</i>" page="0081"></s1>
+		<s1 title="Fear in the Way - A Re-Reading of Murder in the Cathedral - <i>Krishna Rayan</i>" page="0096"></s1>
+		<s1 title="T.S. Eliot : The Poet&#8217;s Invisible Poft - <i>Vinod Sena</i>" page="0108"></s1>
+		<s1 title="The Impact of T.S. Eliot on Contemporary Tamil Poetry - <i>P.M. Marudanayagam</i>" page="0115"></s1>
+		<s1 title="T.S. Eliot and Modern Telugu Poetry - <i>K. Godavari Sarma</i>" page="0125"></s1>
+		<s1 title="Mardhekar and T.S. Eliot : A Study in Reception - <i>Chandrashekhar Jahagirdar</i>" page="0133"></s1>
+		<s1 title="I.A. Richards and T.S. Eliot : A Dialogue on Poetry and Belief with a Kannada Footnote - <i>G. S. Amur</i>" page="0146"></s1>
+		<s1 title="T.S. Eliot&#8217;s Critical Method - <i>Sudhakar Marathe</i>" page="0156"></s1>
+		<s1 title="On Translating T.S. Eliot&#8217;s Poetry into Malayalam - <i>Ayyappa Paniker</i>" page="0165"></s1>
+		<s1 title="T.S. Eliot and the Indian Sensibility : An Appositive Study of Kalapurusha and the Waste Land - <i>Madusudan Pati</i>" page="0175"></s1>
+		<s1 title="&#8220;A Further Union, A Deeper Communion&#8221; &#8220;Dry Salvages&#8221; in the Context of the Yoga-Sutras - <i>M.S. Nagarajan</i>" page="0184"></s1>
+		<s1 title="Eliot and the Arjunas - <i>Amiya Dev</i>" page="0195"></s1>
+		<s1 title="The &#8220;Twilight&#8221; Language and the Waste Land - <i>M. Sivaramakrishna</i>" page="0204"></s1>
+		<s1 title="The Use and Abuse of T.S. Eliot as Critic - <i>S. Lakshmanamurthy</i>" page="0214"></s1>
+		<s1 title="A Report - <i>Ragini Ramachandra, Jayashree Sanjay</i>" page="0221"></s1>
+	</book>
+	<book code="028" btitle="The Literary Criterion">
+		<s1 title="I. Introductory" page="0003">
+			<s2 title="Editorial Note" page="0003"></s2>
+			<s2 title="Indian Writing in English: A Reply to Dom Moraes - <i>C.D. Narasimhaiah</i>" page="0006"></s2>
+			<s2 title="For Whom do we Write? - <i>A. Madhavan</i>" page="0016"></s2>
+		</s1>
+		<s1 title="II. Drama" page="">
+			<s2 title="&#8216;Princes&#8217;: A Play by Gieve Patel - <i>Eunice De Souza</i>" page="0023"></s2>
+			<s2 title="Gurcharan Das&#8217;s &#8216;Larins Sahib&#8217; - <i>M.K. Naik</i>" page="0029"></s2>
+			<s2 title="A Note on Karnad&#8217;s &#8216;Hayavadana&#8217; - <i>U.R. Anantha Murthy</i>" page="0037"></s2>
+		</s1>
+		<s1 title="III. Fiction" page="0047">
+			<s2 title="An Artist&#8217;s Experience of India: Ruth Prawer Jhabvala&#8217;s Fiction - <i>V.A. Shahane</i>" page="0047"></s2>
+			<s2 title="The Chemmeen Myth - <i>K. Ayyappa Paniker</i>" page="0075"></s2>
+			<s2 title="Form in &#8216;The Poppet&#8217; Tale&#8217;s - <i>Meenakshi Mukherjee</i>" page="0087"></s2>
+			<s2 title="Santha Rama Rau: The Imagination of Fact - <i>Ragini Ramachandra</i>" page="0098"></s2>
+			<s2 title="The Fiction of Arun Joshi - <i>C.N. Srinath</i>" page="0115"></s2>
+			<s2 title="Kamala Markandaya - <i>P.S. Chauhan</i>" page="0134"></s2>
+		</s1>
+		<s1 title="IV. Poetry" page="0151">
+			<s2 title="&#8216;The Last Refinement of Speech&#8217;: The Poetry of R. Parthasarathy - <i>M. Sivaram Krishna</i>" page="0151"></s2>
+			<s2 title="Kamala Das - <i>Devendra Kohli</i>" page="0173"></s2>
+			<s2 title="How it Strikes a Contemporary: The Poetry of A.K. Ramanujan - <i>R. Parthasarathy</i>" page="0187"></s2>
+			<s2 title="Interior Cadences: The Poetry of Nissim Ezekiel - <i>J. Birje-Patil</i>" page="0198"></s2>
+		</s1>
+		<s1 title="V. Comments and Reviews" page="0215">
+			<s2 title="Indian-English Literature in the Classroom - <i>Sujit Mukherjee</i>" page="0215"></s2>
+			<s2 title="Reviews - <i>C.D.N., S.N.K., Bhatia, I.D., N.P.</i>" page="0220"></s2>
+		</s1>
+	</book>
+	<book code="029" btitle="The Literary Criterion">
+		<s1 title="A Note on the Critical Function - <i>F.R. Leavis</i>" page="0001"></s1>
+		<s1 title="Criticism of Moments: - <i>A.P. O'Brien</i>" page="0010"></s1>
+		<s1 title="The Identity of a Poem - <i>K.S. Yadurajan</i>" page="0017"></s1>
+		<s1 title="A Visit to the Sister of D.H. Lawrence - <i>V. de S. Pinto</i>" page="0024"></s1>
+		<s1 title="The Poetry of D.H. Lawrence - <i>P. Rama Moorthy</i>" page="0029"></s1>
+		<s1 title="O'Neill : The Last Phase - <i>K.R. Srinivasa Iyengar</i>" page="0044"></s1>
+		<s1 title="D.H. Lawrence the Artist - <i>A.G. Stock</i>" page="0058"></s1>
+		<s1 title="Conceptual Enactment - <i>B. Damodar Rao</i>" page="0064"></s1>
+		<s1 title="Scott Fitzerald&#8217;s Waste Land - <i>Philip Young</i>" page="0075"></s1>
+		<s1 title="Some Folk in American Folklore - <i>William Mulder</i>" page="0084"></s1>
+		<s1 title="The Newest American Fiction - <i>Willard Thorp</i>" page="0094"></s1>
+		<s1 title="Tagore&#8217;s Social Poetry and Social Thought - <i>D.J. Enright</i>" page="0108"></s1>
+		<s1 title="Indian Shape of Coleridge&#8217;s Religious Thought - <i>M.W. Marshall</i>" page="0116"></s1>
+		<s1 title="&#8216;Burnt Norton&#8217; in the Light of Hindu Thought - <i>S. Nagarajan</i>" page="0132"></s1>
+		<s1 title="Achievement of Indo-Anglian Novelist - <i>Prema Nandakumar</i>" page="0160"></s1>
+		<s1 title="Tolstoy&#8217;s View of Art - <i>V.K. Gokak</i>" page="0166"></s1>
+		<s1 title="Japan Beautiful - <i>Edmund Blunden</i>" page="0179"></s1>
+		<s1 title="Better Literary History and Better Literary Criticism - <i>C.D. Narasimhaiah</i>" page="0180"></s1>
+		<s1 title="Critical Practice and Educational Ideas - <i>William Walsh</i>" page="0211"></s1>
+		<s1 title="Integrity in Criticism - <i>Seymour Betsky</i>" page="0220"></s1>
+	</book>
+</dhvanyaloka>
