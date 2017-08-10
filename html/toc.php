@@ -60,7 +60,7 @@ if($num_rows > 0)
 		}
 		if($authorname != "")
 		{
-			$title = '<span class="sub_titlespan"><a target="_blank" href="books/' . $book_id . '.pdf">' . $title . ' </a></span><br/><span class="authorspan">&nbsp;&nbsp;&nbsp;-&nbsp;' . $authorname . '</span>';
+			$title = '<span class="sub_titlespan"><a target="_blank" href="books/' . $book_id . '.pdf#page=" .' . $page . ' >' . $title . ' </a></span><br/><span class="authorspan">&nbsp;&nbsp;&nbsp;-&nbsp;' . $authorname . '</span>';
 		}
 		else
 		{

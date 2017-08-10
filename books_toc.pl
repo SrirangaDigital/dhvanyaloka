@@ -9,7 +9,7 @@ $table = 'books_toc';
 
 use DBI();
 
-open(IN,"books_toc.xml") or die "can't open books_toc.xml\n";
+open(IN,"books.xml") or die "can't open books.xml\n";
 
 my $dbh=DBI->connect("DBI:mysql:database=$db;host=$host","$usr","$pwd");
 $dbh->{'mysql_enable_utf8'} = 1;
