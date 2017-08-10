@@ -47,6 +47,7 @@ if($num_rows > 0)
 	for($i=1;$i<=$num_rows;$i++)
 	{
 		$row = $result->fetch_assoc();
+		
 		$level = $row['level'];
 		$title = $row['title'];
 		$page = $row['page'];
@@ -60,11 +61,11 @@ if($num_rows > 0)
 		}
 		if($authorname != "")
 		{
-			$title = '<span class="sub_titlespan"><a target="_blank" href="books/' . $book_id . '.pdf#page=" .' . $page . ' >' . $title . ' </a></span><br/><span class="authorspan">&nbsp;&nbsp;&nbsp;-&nbsp;' . $authorname . '</span>';
+			$title = '<span class="sub_titlespan"><a target="_blank" href="books/' . $book_id . '.pdf#page=' . $page . '">' . $title . ' </a></span><br/><span class="authorspan">&nbsp;&nbsp;&nbsp;-&nbsp;' . $authorname . '</span>';
 		}
 		else
 		{
-			$title = '<span class="sub_titlespan"><a target="_blank" href="books/' . $book_id . '.pdf">' . $title . ' </a></span>';
+			$title = '<span class="sub_titlespan"><a target="_blank" href="books/' . $book_id . '.pdf#page=' . $page . '">' . $title . ' </a></span>';
 		}
 		
 		if($first)
