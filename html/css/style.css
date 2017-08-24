@@ -38,9 +38,11 @@ border-bottom: 2px solid #ccc;
 
 .img-p{
     border: 3px solid #c57c00;
+    width: 150px;
+    height: 220px;
     box-shadow: 0 0 7px #AAA;
     border-radius: 25px 0 25px 0;
-
+   
 }
 .book-name{
 font-size: medium;
