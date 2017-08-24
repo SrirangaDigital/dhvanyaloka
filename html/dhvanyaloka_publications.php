@@ -24,16 +24,11 @@ include ('includes/header_inner.php');
  <div class="col-sm-3"><a href="toc.php?bookid=017"><img src="images/coverpage/017.jpg" class="img-responsive img-p" alt=""><span class="book-name">Indian Women`s Fiction Today</span></a></div>
  <div class="col-sm-3"><a href="toc.php?bookid=018"><img src="images/coverpage/018.jpg" class="img-responsive img-p" alt=""><span class="book-name">Kannada Literary Scene</span></a></div>
  <div class="col-sm-3"><a href="toc.php?bookid=019"><img src="images/coverpage/019.jpg" class="img-responsive img-p" alt=""><span class="book-name">Drama As Form Of Art And Theatre</span></a></div>
- <div class="col-sm-3"><a href="toc.php?bookid=020"><img src="images/coverpage/020.jpg" class="img-responsive img-p" alt=""><span class="book-name">Contemporary Teulgu Literary Scene</span></a></div>
+ <div class="col-sm-3"><a href="toc.php?bookid=020"><img src="images/coverpage/020.jpg" class="img-responsive img-p" alt=""><span class="book-name">Contemporary Telugu Literary Scene</span></a></div>
  <div class="col-sm-3"><a href="toc.php?bookid=021"><img src="images/coverpage/021.jpg" class="img-responsive img-p" alt=""><span class="book-name">Great Moments In Life and Literature</span></a></div>
  <div class="col-sm-3"><a href="toc.php?bookid=022"><img src="images/coverpage/022.jpg" class="img-responsive img-p" alt=""><span class="book-name">Glimpses of New Zealand Literature</span></a></div>
  <div class="col-sm-3"><a href="toc.php?bookid=023"><img src="images/coverpage/023.jpg" class="img-responsive img-p" alt=""><span class="book-name">The Vitality of West Indian Literature</span></a></div>
  <div class="col-sm-3"><a href="toc.php?bookid=024"><img src="images/coverpage/024.jpg" class="img-responsive img-p" alt=""><span class="book-name">Western Writers On India</span></a></div>
- <div class="col-sm-3"><a href="toc.php?bookid=025"><img src="images/coverpage/025.jpg" class="img-responsive img-p" alt=""><span class="book-name">Common Poetic for Indian Literatures</span></a></div>
- <div class="col-sm-3"><a href="toc.php?bookid=026"><img src="images/coverpage/026.jpg" class="img-responsive img-p" alt=""><span class="book-name">Bhakti in Indian Literature</span></a></div>
- <div class="col-sm-3"><a href="toc.php?bookid=027"><img src="images/coverpage/027.jpg" class="img-responsive img-p" alt=""><span class="book-name">T S Elliot and Literary Scene</span></a></div>
- <div class="col-sm-3"><a href="toc.php?bookid=028"><img src="images/coverpage/028.jpg" class="img-responsive img-p" alt=""><span class="book-name">Indian Literature in English</span></a></div>
- <div class="col-sm-3"><a href="toc.php?bookid=029"><img src="images/coverpage/029.jpg" class="img-responsive img-p" alt=""><span class="book-name">Tenth year of Publication</span></a></div>
 
 
 </div>
